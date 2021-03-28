@@ -1,0 +1,27 @@
+{
+  "name": "noding-start",
+  "version": "1.0.0",
+  "description": "An open source  collaborative node project for getting started with node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeBackend/Node.js.git"
+  },
+  "keywords": [
+    "Node.js",
+    "webackends",
+    "uenr-backends"
+  ],
+  "author": "WeBackend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeBackend/Node.js/issues"
+  },
+  "homepage": "https://github.com/WeBackend/Node.js#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
